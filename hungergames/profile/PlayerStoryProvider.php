@@ -8,23 +8,7 @@ use pocketmine\Server;
 use pocketmine\level\Level;
 use hungergames\main\HungerGamesPlugIn;
 
-/**
- *
- * You're allowed to use for own usage only "as-is".
- * you're not allowed to republish or resell or for any commercial purpose.
- *
- * Thanks for your cooperate!
- *
- * Copyright (C) 2014 minecraftgenius76
- * YouTube Channel: http://www.youtube.com/user/minecraftgenius76
- *
- * @author minecraftgenius76
- *        
- */
 
-/**
- * Player Story Providerr
- */
 class PlayerStoryProvider {
 	const DB_STORE_FILE = "HGv2_player_story.db";
 	const DB_SQL_FILE_STORY = "sqlite3_player_story.sql";
