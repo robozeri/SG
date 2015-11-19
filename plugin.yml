@@ -7,7 +7,7 @@ description: Hunger Games
 commands:
  hg:
   description: " Hunger Games"
-  permission: mcg76.plugin.hungergames
+  permission: plugin.hungergames
 permissions:
   plugin.hungergames:
   description: "hungergames"
